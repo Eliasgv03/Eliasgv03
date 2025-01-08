@@ -11,9 +11,9 @@ I’m a **Computer Science student** in my third year, passionate about problem-
 - 🚀 Always open to learning new technologies and tackling challenging projects to grow professionally and personally.
 
 ## 🛠️ Skills
-- **Languages**: Python, C++, SQL
+- **Languages**: Python, C++, Java, SQL
 - **Frameworks**: Django
-- **Tools**: Pandas, NumPy, Matplotlib
+- **Tools**: Pandas, NumPy, Matplotlib, Seaborn
 - **Key Competencies**: Competitive programming, algorithm design, problem-solving, backend development, data analysis
 
 ## 📊 GitHub Stats
@@ -27,16 +27,6 @@ I’m a **Computer Science student** in my third year, passionate about problem-
 
   
 ![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/card?username=eliasgv&theme=tokyonight)
-
-
-## 🚀 Projects
-### 1. **[finance_manager](#)**  
-Description: A Django web app enabling users to easily manage their transactions with an intuitive and user-friendly interface. It adapts to individual needs and includes useful tools like a currency converter. (add link to GitHub repo or demo).  
-**Tech Stack**: Django, Python, SQL  
-
-### 2. **[ml-entry-problems](#)**  
-Description:A Python-based project for training and preparing machine learning models to perform regression, classification, and clustering tasks on various datasets. It involves data analysis, preprocessing, and visualization using tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. (add more if necessary).  
-**Tech Stack**: Python, NumPy, Pandas , Matplotlib, Seaborn, Scikit-learn
 
 ## 🤝 Connect with Me
 - **Email**: [carloseliasgon@gmail.com](carloseliasgon@gmail.com)
