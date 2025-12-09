@@ -1,36 +1,23 @@
-# Hi there, I'm Carlos Elías 👋
+# Hi, I'm Carlos Elías 👋
 
+**AI Engineer & Backend Developer**  
+4th-year Computer Science student
 
-I’m a **Computer Science student** in my third year, passionate about problem-solving and technology. With a strong foundation in **competitive programming**, **mathematics**, and **software development**, I’m actively exploring the fascinating world of **Artificial Intelligence** and backend development.
+I have experience designing and developing AI-driven solutions, including conversational systems, document processing pipelines, autonomous agents, and multi-agent workflows. I have contributed to real-world projects applying modern AI techniques, deep learning, retrieval-augmented generation (RAG), and frameworks such as LangChain and LangGraph.
 
-## 🌟 About Me
-- 🎓 **Competitive Programmer**: Over 2 years of experience, specializing in **algorithms** and **data structures**.
-- 🧮 Strong background in **advanced mathematics**, honed through math competitions during my pre-university studies.
-- 💻 **Backend Developer**: Skilled in building web applications using **Django** and RESTful APIs.
-- 🤖 Diving into **Machine Learning**, **Deep Learning**, and exploring applications of AI in various domains.
-- 🚀 Always open to learning new technologies and tackling challenging projects to grow professionally and personally.
+I also work with data analysis and deep learning models, with knowledge in image classification, generative models, and large-scale data processing using Spark.
 
-## 🛠️ Skills
-- **Languages**: Python, C++, Java, SQL
-- **Frameworks**: Django
-- **Tools**: Pandas, NumPy, Matplotlib, Seaborn
-- **Key Competencies**: Competitive programming, algorithm design, problem-solving, backend development, data analysis
+My background includes:
+- Algorithms and data structures, supported by more than four years of experience in competitive programming  
+- Advanced mathematics  
+- Scalable and maintainable software development  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliasgv03&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Stack
+Python • PyTorch • LangChain • LangGraph • FastAPI • Django  
+C++ • SQL • Spark • Pandas • Docker • Redis • Git
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasgv03&layout=compact&theme=tokyonight)
+## 🤝 Contact
+carloseliasgon@gmail.com  
+[linkedin.com/in/eliasglezz](https://www.linkedin.com/in/eliasglezz)
 
-## 🏆 Competitive Programming
-### Codeforces Profile  
-- **Codeforces**: [Visit Profile](https://codeforces.com/profile/eliasgv)
-
-  
-![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/card?username=eliasgv&theme=tokyonight)
-
-## 🤝 Connect with Me
-- **Email**: [carloseliasgon@gmail.com](carloseliasgon@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/eliasglezz](www.linkedin.com/in/eliasglezz)
-
-
-
+Open to professional opportunities, collaborations, or AI-related initiatives.
