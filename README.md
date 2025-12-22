@@ -14,7 +14,7 @@ My background includes:
 
 ## 🛠️ Tech Stack
 Python • PyTorch • LangChain • LangGraph • FastAPI • Django  
-C++ • SQL • Spark • Pandas • Docker • Redis • Git
+C++ • SQL • Spark • Pandas • Docker • Redis • Git • JavaScript
 
 ## 🤝 Contact
 carloseliasgon@gmail.com  
