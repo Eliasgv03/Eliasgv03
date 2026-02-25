@@ -1,16 +1,10 @@
 # Hi, I'm Carlos Elías 👋
 
-**AI Engineer & Backend Developer**  
-4th-year Computer Science student
+**AI Engineer | Backend Developer**  
 
-I have experience designing and developing AI-driven solutions, including conversational systems, document processing pipelines, autonomous agents, and multi-agent workflows. I have contributed to real-world projects applying modern AI techniques, deep learning, retrieval-augmented generation (RAG), and frameworks such as LangChain and LangGraph.
+I am a Computer Science student with a deep-seated passion for mathematics and the art of solving complex challenges. I focus on building intelligent systems that deliver real-world value, overseeing the entire lifecycle from conceptual design and architecture development to final deployment.
 
-I also work with data analysis and deep learning models, with knowledge in image classification, generative models, and large-scale data processing using Spark.
-
-My background includes:
-- Algorithms and data structures, supported by more than four years of experience in competitive programming  
-- Advanced mathematics  
-- Scalable and maintainable software development  
+My approach integrates Natural Language Processing, Computer Vision, and Autonomous Agents, leveraging both probabilistic models and neural networks to create comprehensive, scalable, and impactful solutions.
 
 ## 🛠️ Tech Stack
 Python • PyTorch • LangChain • LangGraph • FastAPI • Django  
