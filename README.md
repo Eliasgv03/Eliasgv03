@@ -1,17 +1,15 @@
-# Hi, I'm Carlos Elías 👋
+# Carlos Elías González
 
-**AI Engineer | Backend Developer**  
+**AI & Backend Engineer**
 
-I am a Computer Science student with a deep-seated passion for mathematics and the art of solving complex challenges. I focus on building intelligent systems that deliver real-world value, overseeing the entire lifecycle from conceptual design and architecture development to final deployment.
+I work at the intersection of backend engineering and applied AI, designing software systems that integrate LLMs, agents, generative AI and modern backend architectures.
 
-My approach integrates Natural Language Processing, Computer Vision, and Autonomous Agents, leveraging both probabilistic models and neural networks to create comprehensive, scalable, and impactful solutions.
+### Tech
+Python · Java · C++  
+FastAPI · Django · Spring Boot  
+LangChain · LangGraph · Google ADK  
+ML · DL · XAI
 
-## 🛠️ Tech Stack
-Python • PyTorch • LangChain • LangGraph • FastAPI • Django  
-C++ • SQL • Spark • Pandas • Docker • Redis • Git • JavaScript
-
-## 🤝 Contact
-carloseliasgon@gmail.com  
-[linkedin.com/in/eliasglezz](https://www.linkedin.com/in/eliasglezz)
-
-Open to professional opportunities, collaborations, or AI-related initiatives.
+### Background
+B.Sc. in Computer Science — Gold Graduate, UCLV  
+ICPC participant · 10th place in the Caribbean region (2023)
