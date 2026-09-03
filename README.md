@@ -11,5 +11,4 @@ LangChain · LangGraph · Google ADK
 ML · DL · XAI
 
 ### Background
-B.Sc. in Computer Science — Gold Graduate, UCLV  
-ICPC participant · 10th place in the Caribbean region (2023)
+B.Sc. in Computer Science, UCLV  
